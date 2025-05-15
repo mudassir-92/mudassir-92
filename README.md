@@ -1,3 +1,4 @@
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=500&lines=Hi%2C+I'm+Mudassir+Ahraf" alt="Typing Intro" />
 </h1>
@@ -6,9 +7,10 @@
 💻 **backend developer** | 🌍 **open source contributor**  
 🔧 tech stack: **java, c++, data structures**  
 
-## 📊 coding activity
+## 📊 Coding activity
 ![my stats](https://github-readme-stats.vercel.app/api?username=mudassir-92&show_icons=true&hide_border=true)
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassir-92&layout=compact&hide=html,css)
+## Languages :
+![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassir-92&layout=compact&hide=html,css)
 
 ## 🔥 daily commitment
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=mudassir-92&theme=dark)
