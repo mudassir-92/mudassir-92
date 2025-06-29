@@ -5,7 +5,7 @@
 
 ## 👨‍💻 developer profile
 💻 **backend developer** | 🌍 **open source contributor**  
-🔧 tech stack: **java, c++, data structures**  
+🔧 tech stack: **Java, c++,Kotlin data structures**  
 
 ## 📊 Coding activity
 ![my stats](https://github-readme-stats.vercel.app/api?username=mudassir-92&show_icons=true&hide_border=true)
