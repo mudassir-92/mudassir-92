@@ -31,7 +31,7 @@ I'm **Mudassir Ashraf**, a passionate Software Engineer on a mission to master *
 
 - 📱 Building and publishing real apps under **[netCode](https://play.google.com/store/apps/dev?id=8464703682058703923)** on Google Play
 - 🌐 Crafting scalable backend systems with **Node.js + Express**
-- 🧠 Grinding DSA daily — **300+ problems solved** across platforms
+- 🧠 Grinding DSA daily — **1000+ problems solved** across platforms
 - 🚀 Leveling up every single day, one commit at a time
 
 ---
@@ -110,7 +110,7 @@ I'm **Mudassir Ashraf**, a passionate Software Engineer on a mission to master *
 
 ---
 
-## ◈ DSA JOURNEY — 300+ PROBLEMS SOLVED
+## ◈ DSA JOURNEY — 1000+ PROBLEMS SOLVED
 
 <div align="center">
 
@@ -175,7 +175,7 @@ I'm **Mudassir Ashraf**, a passionate Software Engineer on a mission to master *
 | # | Achievement |
 |---|-------------|
 | 🏪 | Published on **Google Play Store** under **netCode** with ⭐ 5.0 rated app |
-| 🧠 | **300+ DSA problems** solved across LeetCode, CF, CodeWars, GFG |
+| 🧠 | **1000+ DSA problems** solved across LeetCode, CF, CodeWars, GFG |
 | 🥋 | Growing in contests & competitive programming |
 | 💻 | Daily practice streak mindset — consistent & focused |
 | 🌍 | Open Source Contributor |
