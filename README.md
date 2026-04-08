@@ -14,17 +14,6 @@
 
 <br/>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║   BACKEND DEV  ·  MOBILE ENGINEER  ·  CP GRINDER  ·  OS         ║
-║   Flutter · Node.js · Express · Kotlin · Java · C++ · Dart      ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ## ◈ ABOUT ME
 
 I'm **Mudassir Ashraf**, a passionate Software Engineer on a mission to master **DSA**, **competitive programming**, and **cross-platform app development**.
@@ -86,10 +75,6 @@ I'm **Mudassir Ashraf**, a passionate Software Engineer on a mission to master *
 
 <br/>
 
-<!-- <img height="170" src="https://github-stats.as93.net/api?username=mudassir-92&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&icon_color=00ff88&text_color=c8f0ff&count_private=true" />
-<img height="170" src="https://github-stats.as93.net/api/top-langs/?username=mudassir-92&layout=donut&hide=html,css&theme=tokyonight&bg_color=0d1117&title_color=00f5ff&text_color=c8f0ff&hide_border=true" /> -->
-
-<!-- <br/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mudassir-92&theme=tokyonight&background=0d1117&ring=00f5ff&fire=00ff88&currStreakLabel=00f5ff&hide_border=true&dates=c8f0ff" />
 
@@ -103,10 +88,6 @@ I'm **Mudassir Ashraf**, a passionate Software Engineer on a mission to master *
 
 <br/>
 
-<!-- 📅 Isometric Commit Calendar (full-year) -->
-<img src="https://raw.githubusercontent.com/mudassir-92/mudassir-92/main/metrics.plugin.isocalendar.fullyear.svg" alt="Isometric Commit Calendar Full Year" />
-
-</div>
 
 ---
 
@@ -124,62 +105,7 @@ I'm **Mudassir Ashraf**, a passionate Software Engineer on a mission to master *
   <img src="https://leetcard.jacoblin.cool/mudassir_920?theme=dark&border=1&radius=10&ext=heatmap" />
 </div>
 
----
-
-### ⚔️ CodeForces
-
-<div align="center">
-
-![Codeforces Problems](https://img.shields.io/badge/Codeforces%20Problems%20Solved-70-blueviolet?style=for-the-badge&logo=Codeforces)
-
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=gem920&theme=dark" />
-
 </div>
-
----
-
-### 🥋 CodeWars
-
-<div align="center">
-  <img src="https://www.codewars.com/users/mudassir920/badges/large" />
-</div>
-
----
-
-### 📚 GeeksForGeeks
-
-<div align="center">
-
-[![GFG Profile](https://img.shields.io/badge/GeeksForGeeks-mudassir920-2f8d46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/mudassir920/)
-
-</div>
-
----
-
-## ◈ CURRENT FOCUS
-
-```
-[ ACTIVE MISSIONS ]
-
-  ► Improving contest speed on CodeForces
-  ► Preparing for FAANG-level problem patterns
-  ► Shipping more apps under netCode on Play Store
-  ► Scaling backend APIs with Node.js + Express
-  ► Expanding Flutter portfolio to iOS
-```
-
----
-
-## ◈ ACHIEVEMENTS
-
-| # | Achievement |
-|---|-------------|
-| 🏪 | Published on **Google Play Store** under **netCode** with ⭐ 5.0 rated app |
-| 🧠 | **1000+ DSA problems** solved across LeetCode, CF, CodeWars, GFG |
-| 🥋 | Growing in contests & competitive programming |
-| 💻 | Daily practice streak mindset — consistent & focused |
-| 🌍 | Open Source Contributor |
-
 ---
 
 ## ◈ ESTABLISH CONNECTION
