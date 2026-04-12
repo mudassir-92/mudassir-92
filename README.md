@@ -1,39 +1,26 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO HEADER                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00F5FF&center=true&width=700&lines=MUDASSIR+ASHRAF;Flutter+%26+Backend+Developer;DSA+%7C+CP+%7C+Open+Source;Building+Apps+That+Hit+the+Stars+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-![](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00ff88?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/PLATFORM-MOBILE_%2B_BACKEND-00f5ff?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/TYPE-FULL--STACK-blueviolet?style=for-the-badge&labelColor=0d1117)
-![](https://img.shields.io/badge/DSA-300%2B_PROBLEMS_SOLVED-ff6b35?style=for-the-badge&labelColor=0d1117)
-
-<br/>
-
 ## ◈ ABOUT ME
 
-I'm **Mudassir Ashraf**, a passionate Software Engineer on a mission to master **DSA**, **competitive programming**, and **cross-platform app development**.
+**Mudassir Ashraf** — Software Engineering graduate specializing in **Flutter development** and Python-based **AI systems**, with a strong foundation in Data Structures & Algorithms and competitive programming.
 
-- 📱 Building and publishing real apps under **[netCode](https://play.google.com/store/apps/dev?id=8464703682058703923)** on Google Play
-- 🌐 Crafting scalable backend systems with **Node.js + Express**
-- 🧠 Grinding DSA daily — **1000+ problems solved** across platforms
-- 🚀 Leveling up every single day, one commit at a time
-
+-  Building and publishing real apps under **[netCode](https://play.google.com/store/apps/dev?id=8464703682058703923)** on Google Play
+-  Crafting scalable backend systems with **Fast API**
+-  Grinding DSA daily — **1000+ problems solved** across platforms
 ---
 
 ## ◈ PUBLISHED APPS — netCode
 
 <div align="center">
 
-[![Nova Solar Weather](https://img.shields.io/badge/🌞_Nova_Solar_Weather-LIVE_ON_PLAY_STORE-00ff88?style=for-the-badge&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.mudassir.novasolarweather)
+[![Nova Solar Weather](https://img.shields.io/badge/Nova_Solar_Weather-Click_Here_To_Install_From_PlayStore-ffffff?style=for-the-badge\&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.mudassir.novasolarweather)
 
-| App | Rating | Platform | Developer |
-|-----|--------|----------|-----------|
-| ☀️ **Nova Solar Weather** | ⭐ 5.0 | Android | netCode |
+[![Contestify - Contest Tracker](https://img.shields.io/badge/Contestify_Contest_Tracker-Click_Here_To_Install_From_PlayStore-ffffff?style=for-the-badge\&labelColor=0d1117)](https://play.google.com/store/apps/details?id=com.netcode.contestify)
+
+| App                                 | Rating    | Downloads | Platform | Developer |
+| ----------------------------------- | --------- | --------- | -------- | --------- |
+| **Nova Solar Weather**           | ⭐ 5.0 (7) | 100+       | Android  | Mudassir  |
+| **Contestify – Contest Tracker** | ⭐ 5.0 (8)   | 50+       | Android  | Mudassir  |
+
+</div>
 
 </div>
 
@@ -44,7 +31,6 @@ I'm **Mudassir Ashraf**, a passionate Software Engineer on a mission to master *
 ### `// Mobile & Cross-Platform`
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ### `// Backend & API`
@@ -95,11 +81,11 @@ I'm **Mudassir Ashraf**, a passionate Software Engineer on a mission to master *
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=22D3EE&center=true&vCenter=true&width=550&lines=300%2B+Problems+Solved+Overall;Leveling+Up+Every+Single+Day;LeetCode+%7C+CF+%7C+CodeWars+%7C+GFG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=22D3EE&center=true&vCenter=true&width=550&lines=1000%2B+Problems+Solved+Overall;Leveling+Up+Every+Single+Day;LeetCode+%7C+CF+%7C+CodeWars+%7C+GFG" />
 
 </div>
 
-### 🔥 LeetCode
+###  LeetCode
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/mudassir_920?theme=dark&border=1&radius=10&ext=heatmap" />
